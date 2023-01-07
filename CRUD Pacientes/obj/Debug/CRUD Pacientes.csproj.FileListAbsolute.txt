@@ -1,0 +1,14 @@
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\bin\Debug\CRUD Pacientes.exe.config
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\bin\Debug\CRUD Pacientes.exe
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\bin\Debug\CRUD Pacientes.pdb
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.csproj.AssemblyReference.cache
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD_Pacientes.Form1.resources
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD_Pacientes.Properties.Resources.resources
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.csproj.GenerateResource.cache
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.exe
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD Pacientes.pdb
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD_Pacientes.Form2.resources
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD_Pacientes.AgregarEnfermedad.resources
+C:\Users\che-g\Desktop\Proyectos\ProyectoBD\CRUD Pacientes\obj\Debug\CRUD_Pacientes.AgregarMedicamento.resources
